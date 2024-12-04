@@ -1,9 +1,0 @@
-{
-    "tareas":[
-        {
-            "id":1,
-            "titulo":"hacer repo",
-            "prioridad":"alta"
-        }
-    ]
-}
